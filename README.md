@@ -1,5 +1,6 @@
 gtc2vcf
 =======
+[RF Fork rationale: bcftools plugin handling, VCF output via C interest]
 
 A set of tools to convert Illumina files containing intensity data into VCF files <b>without</b> using Microsoft Windows. You can use the final output to run the pipeline to detect <a href="https://github.com/freeseek/mocha">mosaic chromosomal alterations</a>. If you use this tool in your publication, please cite this website. For any feedback, send an email to giulio.genovese@gmail.com
 
